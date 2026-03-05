@@ -8,5 +8,7 @@ In this initial phase, I have architected the core relational structure for the 
 ### Database Schema Visualization:
 ![Database Schema](./db_schema.png) 
 ---
-### 📈 My GitHub Stats
-![GitHub stats](![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=khanhngan5666a-commits&show_icons=true&theme=radical)
+### 📊 Coding Activity
+
+![GitHub Stats](https://github-readme-stats-one.vercel.app/api?username=khanhngan5666a-commits&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats-one.vercel.app/api/top-langs/?username=khanhngan5666a-commits&layout=compact&theme=dracula)
