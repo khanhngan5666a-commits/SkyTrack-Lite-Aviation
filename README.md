@@ -7,4 +7,4 @@ In this initial phase, I have architected the core relational structure for the 
 
 ### Database Schema Visualization:
 ![Database Schema](./db_schema.png) 
-*(Note: If the image doesn't show, make sure you uploaded 'db_schema.png' to the same folder)*
+
